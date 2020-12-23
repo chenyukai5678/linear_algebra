@@ -10,6 +10,8 @@ reference: ~Xilinx/Vivado/2019.2/examples/design/linear_algebra
 	|   README.md
 	|   
 	\---code
+			\---hls_library
+					hls_svd.cpp
 			svd.h
 			svd.cpp
 	\---code_opt
