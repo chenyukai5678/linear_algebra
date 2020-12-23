@@ -11,7 +11,7 @@ reference: ~Xilinx/Vivado/2019.2/examples/design/linear_algebra
 	|   
 	\---code
 			\---hls_library
-					hls_svd.cpp
+					hls_svd.h
 			svd.h
 			svd.cpp
 	\---code_opt
